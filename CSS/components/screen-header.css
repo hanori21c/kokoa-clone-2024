@@ -13,3 +13,18 @@
 .header__icons span {
   margin-left: 25px;
 }
+
+.header__icons i {
+  margin-right: 25px;
+}
+
+.screen-header span {
+  position: relative;
+}
+
+.header__icons__find {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--horizontal-space) 0;
+}
