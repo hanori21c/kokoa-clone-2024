@@ -15,3 +15,10 @@
 .icon-row_icon span {
   margin-top: 20px;
 }
+
+.icon-row_space {
+  display: flex;
+  justify-content: space-between;
+  margin: 35px;
+  box-sizing: border-box;
+}
